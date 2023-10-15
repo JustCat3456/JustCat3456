@@ -2,7 +2,7 @@
 ![](https://img.shields.io/badge/Jender-X-blueviolet)
 ![](https://img.shields.io/badge/Language-Java-yellow)
 
-# I'm Just Cat,just that.
+# I'm Just Cat, just that.
 ### Hi there 👋
 
 <!--
