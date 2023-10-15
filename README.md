@@ -3,6 +3,7 @@
 ![](https://img.shields.io/badge/Language-Java-yellow)
 
 # I'm Just Cat, just that.
+just x gender, just demi sexual.just call me "Just Cat".
 ### Hi there 👋
 
 <!--
