@@ -6,6 +6,7 @@
 just x gender, just demi sexual.just call me "Just Cat".
 ### Hi there 👋
 
+## I like Java
 <!--
 **Yanagi3456/yanagi3456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
