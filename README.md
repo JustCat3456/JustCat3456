@@ -2,7 +2,7 @@
 ![](https://img.shields.io/badge/gender-X-blueviolet)
 ![](https://img.shields.io/badge/Language-Java-yellow)
 
-## Hello world! 👋 
+### Hello world! 👋 
 
 # My name
 japanese: 齋藤 遼樹 
@@ -30,7 +30,7 @@ living in: Okinawa, Japan
 
 
 
-## I like Java
+### I like Java
 
 more information here => myblog
 
