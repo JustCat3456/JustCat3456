@@ -27,4 +27,5 @@ living in: Okinawa, Japan
 ##I like Java
 
 more information here => myblog
+
 contact me => myX(twitter)
