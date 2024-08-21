@@ -24,7 +24,7 @@ University of Ryukyu majar in Geoscience B1
 gender: Xgender
 living in: Okinawa, Japan
 
-##I like Java
+## I like Java
 
 more information here => myblog
 
