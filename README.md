@@ -5,7 +5,7 @@
 ### Hello world! 👋 
 
 # My name
-japanese: 齋藤 遼樹 
+Japanese: 齋藤 遼樹 
 
 English: Hauki Saito
 
@@ -16,6 +16,7 @@ Just call me: JustCat
 # I am in
 
 琉球大学理学部物質地球科学科地球環境系 B1
+
 University of Ryukyu majar in Geoscience B1
 
 琉大ロボットサークル
@@ -35,4 +36,4 @@ living in: Okinawa, Japan
 
 more information => myblog
 
-contact me => myX(twitter)
+contact me => [myX(twitter)](https://x.com/JustCat3456)
