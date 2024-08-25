@@ -8,7 +8,7 @@
 
 ### Hello world! 👋 
 
-# My name
+# My name is
 Japanese: 齋藤 遼樹 
 
 English: Hauki Saito
