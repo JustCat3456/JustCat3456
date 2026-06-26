@@ -16,12 +16,9 @@ Just call me: JustCat
 
 # I am in
 
-琉球大学理学部物質地球科学科地球環境系 B1
+琉球大学理学部物質地球科学科地球環境系 B3
 
-University of Ryukyu majar in Geoscience B1
-
-琉大ロボットサークル
-
+University of Ryukyu majar in Geoscience B3
 
 
 
@@ -36,5 +33,3 @@ living in: Okinawa, Japan
 ### I like Java
 
 more information => [myblog](https://JustCat3456.github.io)
-
-contact me => [myX(twitter)](https://x.com/JustCat3456)
