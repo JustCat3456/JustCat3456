@@ -33,3 +33,5 @@ living in: Okinawa, Japan
 ### I like Java
 
 more information => [myblog](https://JustCat3456.github.io)
+
+Misskey (or mastdon) @JustCat@misskey.haruki-saito.dev
